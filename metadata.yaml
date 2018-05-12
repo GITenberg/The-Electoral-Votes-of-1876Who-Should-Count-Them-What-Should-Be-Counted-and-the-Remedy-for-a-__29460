@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33923'
     url: http://www.gutenberg.org/2009/agents/33923
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29460#The-Electoral-Votes-of-1876Who-Should-Count-Them-What-Should-Be-Counted-and-the-Remedy-for-a-_
 gutenberg_issued: '2009-07-19'
 gutenberg_type: Text
 identifiers:
